@@ -37,7 +37,7 @@ Containers: Docker, Kubernetes (learning)
 
 🚀 **Pinned Project**
 
-### [`linux-fly.io`](https://github.com/robprian/linux-fly.io)
+### [`robprian-fly`](https://github.com/robprian/robprian-fly)
 > Deploy Linux Server on Fly.io with Node.js 22, Python 3.11, and PHP 8.  
 > A starter template for devs who want fast deployment on Fly.io.
 
